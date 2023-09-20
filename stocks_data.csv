@@ -1,0 +1,799 @@
+Stock,Avg V,Price,Call,Call time,Earnings Date,Earnings Time,Avg ch %,Sector,Industry
+A,"1,899,490",114.88,-,-,2023-08-15,After Close,4.2,Healthcare,Diagnostics & Research
+AA,"5,681,880",30.19,-,-,2023-07-19,After Close,5.5,Basic Materials,Aluminum
+AAL,"23,620,900",13.26,-,-,2023-07-20,Before Market Open,4.4,Industrials,Airlines
+AAN,"362,500",10.42,-,-,2023-07-31,After Close,-,Industrials,Rental & Leasing Services
+AAP,"2,700,050",59.62,-,-,2023-08-23,Before Market Open,6,Consumer Cyclical,Specialty Retail
+AAPL,"57,421,100",175.74,-,-,2023-08-03,After Close,4.7,Technology,Consumer Electronics
+ABBV,"5,211,830",153.64,-,-,2023-07-27,Before Market Open,-,Healthcare,Drug Manufacturers - General
+ABT,"4,602,680",102.65,-,-,2023-07-20,Before Market Open,2.1,Healthcare,Medical Devices
+ACAD,"1,573,460",25.85,-,-,2023-08-02,After Close,6.5,Healthcare,Biotechnology
+ACHC,"568,080",71.35,-,-,2023-07-27,After Close,-,Healthcare,Medical Care Facilities
+ACM,"691,370",84.00,-,-,2023-08-07,After Close,-,Industrials,Engineering & Construction
+ACN,"1,999,390",316.59,-,-,2023-09-28,Before Market Open,4.2,Technology,Information Technology Services
+ADBE,"3,075,030",552.16,-,-,2023-09-14,After Close,4.7,Technology,Software - Infrastructure
+ADI,"3,361,990",179.67,-,-,2023-08-23,Before Market Open,-,Technology,Semiconductors
+ADM,"2,771,500",80.65,-,-,2023-07-25,Before Market Open,4.1,Consumer Defensive,Farm Products
+ADP,"1,554,260",248.29,-,-,2023-07-26,Before Market Open,2.8,Industrials,Staffing & Employment Services
+ADSK,"1,463,770",216.67,-,-,2023-08-23,After Close,5.7,Technology,Software - Application
+ADT,"2,598,670",5.88,-,-,2023-08-08,Before Market Open,-,Industrials,Security & Protection Services
+AEE,"1,249,020",81.04,-,-,2023-08-02,After Close,1.3,Utilities,Utilities - Regulated Electric
+AEM,"2,022,590",48.09,-,-,2023-07-26,After Close,4.9,Basic Materials,Gold
+AEO,"4,430,490",15.30,-,-,2023-09-06,After Close,-,Consumer Cyclical,Apparel Retail
+AEP,"3,192,320",80.60,-,-,2023-07-27,Before Market Open,1.4,Utilities,Utilities - Regulated Electric
+AER,"1,188,870",61.58,-,-,2023-07-31,Before Market Open,2.6,Industrials,Rental & Leasing Services
+AFL,"2,219,860",77.31,-,-,2023-08-01,After Close,-,Financial,Insurance - Life
+AGCO,"583,500",122.80,-,-,2023-07-27,Before Market Open,-,Industrials,Farm & Heavy Construction Machinery
+AGIO,"396,190",26.88,-,-,2023-08-03,Before Market Open,-,Healthcare,Biotechnology
+AGO,"232,410",61.44,-,-,2023-08-08,After Close,-,Financial,Insurance - Specialty
+AGR,"686,960",34.96,-,-,2023-07-26,After Close,-,Utilities,Utilities - Regulated Electric
+AIG,"3,183,760",61.20,-,-,2023-08-01,After Close,4.3,Financial,Insurance - Diversified
+AIV,"1,040,220",7.37,-,-,2023-08-07,After Close,-,Real Estate,REIT - Residential
+AJG,"750,260",231.45,-,-,2023-07-27,After Close,2.6,Financial,Insurance Brokers
+AKAM,"1,571,320",105.52,-,-,2023-08-08,After Close,9,Technology,Software - Infrastructure
+AL,"635,960",39.36,-,-,2023-08-03,After Close,3.3,Industrials,Rental & Leasing Services
+ALB,"1,773,010",184.97,-,-,2023-08-02,After Close,5.3,Basic Materials,Specialty Chemicals
+ALK,"1,789,870",39.36,-,-,2023-07-25,Before Market Open,3.6,Industrials,Airlines
+ALKS,"1,732,730",29.85,-,-,2023-07-26,Before Market Open,5,Healthcare,Drug Manufacturers - Specialty & Generic
+ALL,"1,824,520",110.55,-,-,2023-08-01,After Close,3.3,Financial,Insurance - Property & Casualty
+ALLE,"813,160",106.31,-,-,2023-07-26,Before Market Open,3.8,Industrials,Security & Protection Services
+ALLY,"3,964,130",28.50,-,-,2023-07-19,Before Market Open,3.4,Financial,Credit Services
+ALNY,"562,750",193.06,-,-,2023-08-03,Before Market Open,-,Healthcare,Biotechnology
+ALSN,"654,200",59.85,-,-,2023-07-27,After Close,3.5,Consumer Cyclical,Auto Parts
+AMAT,"5,585,470",144.57,-,-,2023-08-17,After Close,4.2,Technology,Semiconductor Equipment & Materials
+AMBA,"588,890",58.60,-,-,2023-08-29,After Close,-,Technology,Semiconductor Equipment & Materials
+AMCX,"438,000",11.63,-,-,2023-08-04,Before Market Open,-,Communication Services,Entertainment
+AME,"875,270",152.86,-,-,2023-08-01,Before Market Open,2.6,Industrials,Specialty Industrial Machinery
+AMGN,"2,534,960",262.30,-,-,2023-08-03,After Close,2.8,Healthcare,Drug Manufacturers - General
+AMP,"439,670",349.80,-,-,2023-07-26,After Close,3.9,Financial,Asset Management
+AMT,"2,122,360",181.08,-,-,2023-07-27,Before Market Open,1.7,Real Estate,REIT - Specialty
+AMTD,"200,910",1.22,-,-,-,-,-,Financial,Asset Management
+AMX,"2,035,000",18.29,-,-,2023-07-11,Before Market Open,-,Communication Services,Telecom Services
+AMZN,"53,601,790",144.72,-,-,2023-08-03,After Close,7.1,Consumer Cyclical,Internet Retail
+AN,"644,770",159.22,-,-,2023-07-21,Before Market Open,-,Consumer Cyclical,Auto & Truck Dealerships
+ANF,"1,874,870",51.26,-,-,2023-08-23,Before Market Open,10.2,Consumer Cyclical,Apparel Retail
+AON,"805,400",338.75,-,-,2023-07-28,Before Market Open,3.3,Financial,Insurance Brokers
+AOS,"904,420",67.74,-,-,2023-07-27,Before Market Open,3.5,Industrials,Specialty Industrial Machinery
+APA,"4,507,460",42.98,-,-,2023-08-02,After Close,3.3,Energy,Oil & Gas E&P
+APD,"744,790",306.10,-,-,2023-08-03,Before Market Open,2.6,Basic Materials,Specialty Chemicals
+APH,"2,207,170",86.51,-,-,2023-07-26,Before Market Open,3.6,Technology,Electronic Components
+APLE,"1,705,800",15.87,-,-,2023-08-03,After Close,-,Real Estate,REIT - Hotel & Motel
+APO,"2,309,430",91.17,-,-,2023-08-03,Before Market Open,2.6,Financial,Asset Management
+AR,"5,079,770",27.34,-,-,2023-07-26,After Close,4,Energy,Oil & Gas E&P
+ARMK,"3,471,250",37.33,-,-,2023-08-08,Before Market Open,3.8,Industrials,Specialty Business Services
+ASB,"1,421,750",17.67,-,-,2023-07-20,After Close,2.4,Financial,Banks - Regional
+ASML,"1,024,270",621.90,-,-,2023-07-19,Before Market Open,3.3,Technology,Semiconductor Equipment & Materials
+ATHM,"374,520",29.59,-,-,2023-07-27,Before Market Open,-,Communication Services,Internet Content & Information
+ATI,"1,023,290",45.10,-,-,2023-08-02,Before Market Open,6,Industrials,Metal Fabrication
+ATVI,"10,628,080",92.22,-,-,2023-07-19,Before Market Open,5.1,Communication Services,Electronic Gaming & Multimedia
+AU,"2,243,880",17.43,-,-,2023-08-04,Before Market Open,5.4,Basic Materials,Gold
+AVB,"656,500",183.46,-,-,2023-07-31,After Close,1.8,Real Estate,REIT - Residential
+AVGO,"2,449,060",871.64,-,-,2023-08-31,After Close,4.6,Technology,Semiconductors
+AVT,"654,070",48.36,-,-,2023-08-16,After Close,2.8,Technology,Electronics & Computer Distribution
+AVXL,"838,060",7.95,-,-,2023-08-08,Before Market Open,6.2,Healthcare,Biotechnology
+AVY,"507,180",182.91,-,-,2023-07-25,Before Market Open,-,Consumer Cyclical,Packaging & Containers
+AWH,"74,800",6.06,-,-,2023-08-14,After Close,7,Healthcare,Diagnostics & Research
+AWK,"938,690",140.98,-,-,2023-07-26,After Close,-,Utilities,Utilities - Regulated Water
+AXL,"1,289,490",7.58,-,-,2023-08-04,Before Market Open,10,Consumer Cyclical,Auto Parts
+AXP,"2,762,380",161.78,-,-,2023-07-21,Before Market Open,3.2,Financial,Credit Services
+AXTA,"2,233,450",27.18,-,-,2023-08-01,After Close,2.1,Basic Materials,Specialty Chemicals
+AZN,"5,213,310",67.78,-,-,2023-07-28,Before Market Open,3,Healthcare,Drug Manufacturers - General
+AZPN,"228,250",199.79,-,-,2023-08-01,After Close,-,Technology,Software - Application
+BA,"5,195,780",209.05,-,-,2023-07-26,Before Market Open,3.1,Industrials,Aerospace & Defense
+BABA,"17,656,280",88.00,-,-,2023-08-10,Before Market Open,3.3,Consumer Cyclical,Internet Retail
+BAC,"42,197,130",29.20,-,-,2023-07-18,Before Market Open,2.1,Financial,Banks - Diversified
+BAH,"780,990",113.09,-,-,2023-07-28,Before Market Open,4.9,Industrials,Consulting Services
+BAM,"1,033,060",35.82,-,-,2023-08-09,Before Market Open,2.1,Financial,Asset Management
+BAX,"4,531,680",39.15,-,-,2023-07-27,Before Market Open,2.8,Healthcare,Medical Instruments & Supplies
+BBY,"2,247,600",73.45,-,-,2023-08-29,Before Market Open,7.4,Consumer Cyclical,Specialty Retail
+BC,"639,720",77.85,-,-,2023-07-27,Before Market Open,-,Consumer Cyclical,Recreational Vehicles
+BCE,"1,340,200",40.99,-,-,2023-08-03,Before Market Open,1.4,Communication Services,Telecom Services
+BCRX,"2,603,320",6.92,-,-,2023-08-03,Before Market Open,6,Healthcare,Biotechnology
+BDX,"1,209,050",264.62,-,-,2023-08-03,Before Market Open,3,Healthcare,Medical Instruments & Supplies
+BEN,"2,967,030",26.22,-,-,2023-07-28,Before Market Open,2.8,Financial,Asset Management
+BERY,"1,308,270",64.32,-,-,2023-08-09,Before Market Open,5.5,Consumer Cyclical,Packaging & Containers
+BG,"1,212,800",115.30,-,-,2023-08-02,Before Market Open,5.1,Consumer Defensive,Farm Products
+BHP,"2,528,860",58.40,-,-,2023-09-04,After Close,-,Basic Materials,Other Industrial Metals & Mining
+BIDU,"2,070,280",137.04,-,-,2023-08-22,Before Market Open,6.8,Communication Services,Internet Content & Information
+BIG,"2,031,780",5.44,-,-,2023-08-29,Before Market Open,8.8,Consumer Defensive,Discount Stores
+BIIB,"1,043,930",256.32,-,-,2023-07-25,Before Market Open,3.8,Healthcare,Drug Manufacturers - General
+BK,"4,456,060",45.82,-,-,2023-07-18,Before Market Open,3.4,Financial,Asset Management
+BKD,"1,103,790",4.01,-,-,2023-08-07,After Close,-,Healthcare,Medical Care Facilities
+BKH,"587,990",55.79,-,-,2023-08-02,After Close,-,Utilities,Utilities - Diversified
+BKU,"834,980",24.76,-,-,2023-07-25,Before Market Open,-,Financial,Banks - Regional
+BLDR,"1,680,470",134.26,-,-,2023-08-02,Before Market Open,6.5,Industrials,Building Products & Equipment
+BLK,"543,500",706.81,-,-,2023-07-14,Before Market Open,-,Financial,Asset Management
+BLMN,"1,646,270",27.10,-,-,2023-08-01,Before Market Open,6.3,Consumer Cyclical,Restaurants
+BLUE,"4,142,970",3.33,-,-,2023-08-08,Before Market Open,6.1,Healthcare,Biotechnology
+BMO,"558,520",88.07,-,-,2023-08-29,Before Market Open,-,Financial,Banks - Diversified
+BMRN,"1,277,160",87.68,-,-,2023-07-31,After Close,3.5,Healthcare,Biotechnology
+BMY,"10,420,660",59.49,-,-,2023-07-27,Before Market Open,2.5,Healthcare,Drug Manufacturers - General
+BNS,"1,373,430",48.23,-,-,2023-08-29,Before Market Open,1.9,Financial,Banks - Diversified
+BOX,"1,506,760",25.30,-,-,2023-08-29,After Close,6.3,Technology,Software - Infrastructure
+BP,"7,375,250",39.10,-,-,2023-08-01,Before Market Open,3,Energy,Oil & Gas Integrated
+BPOP,"401,030",64.09,-,-,2023-07-26,Before Market Open,-,Financial,Banks - Regional
+BR,"475,370",188.03,-,-,2023-08-08,Before Market Open,-,Technology,Information Technology Services
+BRKR,"872,930",67.45,-,-,2023-08-03,Before Market Open,-,Healthcare,Medical Devices
+BRX,"2,080,420",22.99,-,-,2023-07-31,After Close,1.7,Real Estate,REIT - Retail
+BSX,"7,071,240",52.92,-,-,2023-07-27,Before Market Open,2.9,Healthcare,Medical Devices
+BTU,"2,973,480",24.19,-,-,2023-07-27,Before Market Open,-,Energy,Thermal Coal
+BUD,"2,038,260",56.85,-,-,2023-08-03,Before Market Open,-,Consumer Defensive,Beverages - Brewers
+BURL,"1,242,650",150.68,-,-,2023-08-24,Before Market Open,-,Consumer Cyclical,Apparel Retail
+BWA,"2,314,990",40.34,-,-,2023-08-02,Before Market Open,3.1,Consumer Cyclical,Auto Parts
+BWXT,"859,360",74.34,-,-,2023-08-03,After Close,-,Industrials,Aerospace & Defense
+BX,"4,219,890",112.71,-,-,2023-07-20,Before Market Open,3.1,Financial,Asset Management
+BXP,"1,584,930",66.24,-,-,2023-08-01,After Close,-,Real Estate,REIT - Office
+BYD,"753,220",64.95,-,-,2023-07-27,After Close,4.6,Consumer Cyclical,Resorts & Casinos
+BZH,"499,610",27.56,-,-,2023-07-27,After Close,-,Consumer Cyclical,Residential Construction
+C,"16,356,800",43.14,-,-,2023-07-14,Before Market Open,2.8,Financial,Banks - Diversified
+CAG,"3,916,780",29.06,-,-,2023-10-05,Before Market Open,4.7,Consumer Defensive,Packaged Foods
+CAH,"2,288,880",87.70,-,-,2023-08-15,Before Market Open,4,Healthcare,Medical Distribution
+CALM,"770,030",46.33,-,-,2023-07-25,After Close,-,Consumer Defensive,Farm Products
+CAR,"521,040",201.48,-,-,2023-07-31,After Close,7.9,Industrials,Rental & Leasing Services
+CAT,"2,630,720",282.56,-,-,2023-08-01,Before Market Open,3.8,Industrials,Farm & Heavy Construction Machinery
+CB,"1,742,530",211.98,-,-,2023-07-25,After Close,-,Financial,Insurance - Property & Casualty
+CBD,"3,656,480",0.91,-,-,2023-07-26,Before Market Open,-,Consumer Cyclical,Department Stores
+CCI,"3,172,990",98.63,-,-,2023-07-19,After Close,2.6,Real Estate,REIT - Specialty
+CCJ,"3,961,530",39.89,-,-,2023-08-02,Before Market Open,4.8,Energy,Uranium
+CCK,"1,360,410",91.93,-,-,2023-07-24,After Close,-,Consumer Cyclical,Packaging & Containers
+CCL,"34,936,360",15.63,-,-,2023-06-26,Before Market Open,4.3,Consumer Cyclical,Travel Services
+CDNS,"1,685,630",242.82,-,-,2023-07-24,After Close,4.4,Technology,Software - Application
+CDW,"643,880",209.79,-,-,2023-08-02,Before Market Open,3.6,Technology,Information Technology Services
+CE,"1,302,240",128.88,-,-,2023-08-07,After Close,-,Basic Materials,Chemicals
+CENX,"1,136,300",7.59,-,-,2023-08-09,After Close,7.2,Basic Materials,Aluminum
+CEQP,"497,230",28.59,-,-,2023-08-01,Before Market Open,-,Energy,Oil & Gas Midstream
+CF,"2,303,580",83.96,-,-,2023-08-02,After Close,4.1,Basic Materials,Agricultural Inputs
+CFG,"5,872,620",28.27,-,-,2023-07-19,Before Market Open,3.1,Financial,Banks - Regional
+CFR,"525,650",96.11,-,-,2023-07-27,Before Market Open,-,Financial,Banks - Regional
+CG,"2,336,370",32.68,-,-,2023-08-02,Before Market Open,-,Financial,Asset Management
+CHD,"1,358,770",95.60,-,-,2023-07-28,Before Market Open,3.3,Consumer Defensive,Household & Personal Products
+CHKP,"819,300",135.84,-,-,2023-07-26,Before Market Open,3.9,Technology,Software - Infrastructure
+CHRW,"938,290",89.89,-,-,2023-08-02,After Close,5.3,Industrials,Integrated Freight & Logistics
+CHTR,"1,278,910",449.37,-,-,2023-07-28,Before Market Open,4.8,Communication Services,Telecom Services
+CI,"1,406,780",283.31,-,-,2023-08-03,Before Market Open,3,Healthcare,Healthcare Plans
+CIEN,"1,802,830",49.08,-,-,2023-08-31,Before Market Open,9.7,Technology,Communication Equipment
+CL,"4,414,380",73.46,-,-,2023-07-28,Before Market Open,2.5,Consumer Defensive,Household & Personal Products
+CLDX,"450,750",28.22,-,-,2023-08-08,After Close,-,Healthcare,Biotechnology
+CLX,"1,154,370",149.45,-,-,2023-08-02,After Close,3.1,Consumer Defensive,Household & Personal Products
+CMA,"2,257,490",43.83,-,-,2023-07-21,Before Market Open,3.4,Financial,Banks - Regional
+CMC,"812,510",53.28,-,-,2023-06-22,Before Market Open,5,Basic Materials,Steel
+CMCM,"26,310",2.09,-,-,-,-,-,Communication Services,Internet Content & Information
+CMCSA,"17,411,990",45.97,-,-,2023-07-27,Before Market Open,2.9,Communication Services,Telecom Services
+CME,"1,417,920",207.81,-,-,2023-07-26,Before Market Open,2.6,Financial,Financial Data & Stock Exchanges
+CMG,"274,230","1,936.12",-,-,2023-07-26,After Close,-,Consumer Cyclical,Restaurants
+CMI,"883,480",237.04,-,-,2023-08-03,Before Market Open,4.1,Industrials,Specialty Industrial Machinery
+CMRX,"969,810",1.06,-,-,2023-08-03,Before Market Open,5,Healthcare,Biotechnology
+CMS,"1,680,100",57.25,-,-,2023-07-27,Before Market Open,1,Utilities,Utilities - Regulated Electric
+CNC,"3,382,120",67.61,-,-,2023-07-28,Before Market Open,4,Healthcare,Healthcare Plans
+CNI,"1,117,820",115.46,-,-,2023-07-25,After Close,2.2,Industrials,Railroads
+CNK,"2,665,180",16.52,-,-,2023-08-04,Before Market Open,3,Communication Services,Entertainment
+CNO,"600,940",23.88,-,-,2023-07-31,After Close,4.3,Financial,Insurance - Life
+CNP,"3,816,160",28.98,-,-,2023-07-27,Before Market Open,-,Utilities,Utilities - Regulated Electric
+CNQ,"1,987,240",64.67,-,-,2023-08-03,Before Market Open,2.7,Energy,Oil & Gas E&P
+CNX,"2,830,000",22.16,-,-,2023-07-27,Before Market Open,5.9,Energy,Oil & Gas E&P
+COF,"2,283,370",102.26,-,-,2023-07-20,After Close,3.8,Financial,Credit Services
+COMM,"3,265,680",3.65,-,-,2023-08-03,Before Market Open,9.9,Technology,Communication Equipment
+CONN,"175,570",3.84,-,-,2023-08-30,Before Market Open,-,Consumer Cyclical,Specialty Retail
+COP,"4,757,900",124.50,-,-,2023-08-03,Before Market Open,-,Energy,Oil & Gas E&P
+COST,"1,576,280",564.77,-,-,2023-09-26,After Close,-,Consumer Defensive,Discount Stores
+COTY,"4,086,440",11.48,-,-,2023-08-22,Before Market Open,-,Consumer Defensive,Household & Personal Products
+CP,"2,086,410",79.90,-,-,2023-07-27,After Close,-,Industrials,Railroads
+CPB,"2,592,770",43.49,-,-,2023-08-31,Before Market Open,5.1,Consumer Defensive,Packaged Foods
+CPE,"1,623,600",39.57,-,-,2023-08-02,After Close,5.2,Energy,Oil & Gas E&P
+CPG,"3,135,910",8.54,-,-,2023-07-26,Before Market Open,-,Energy,Oil & Gas E&P
+CPRT,"4,044,920",44.85,-,-,2023-09-14,After Close,4.6,Industrials,Specialty Business Services
+CRM,"5,461,030",218.78,-,-,2023-08-30,After Close,6.3,Technology,Software - Application
+CROX,"1,848,770",90.72,-,-,2023-07-27,Before Market Open,11.9,Consumer Cyclical,Footwear & Accessories
+CRUS,"500,740",73.40,-,-,2023-08-03,After Close,-,Technology,Semiconductors
+CSCO,"18,041,580",56.37,-,-,2023-08-16,After Close,-,Technology,Communication Equipment
+CSIQ,"1,226,720",27.86,-,-,2023-08-22,Before Market Open,-,Technology,Solar
+CSTM,"594,830",17.77,-,-,2023-07-26,Before Market Open,9.2,Basic Materials,Aluminum
+CSX,"12,889,320",31.04,-,-,2023-07-20,Before Market Open,3.5,Industrials,Railroads
+CTSH,"3,488,800",70.97,-,-,2023-08-02,After Close,5.3,Technology,Information Technology Services
+CUBE,"1,622,610",40.66,-,-,2023-08-03,After Close,2.9,Real Estate,REIT - Industrial
+CVE,"6,720,430",20.83,-,-,2023-07-27,Before Market Open,-,Energy,Oil & Gas Integrated
+CVS,"9,506,780",69.95,-,-,2023-08-02,Before Market Open,-,Healthcare,Healthcare Plans
+CVX,"7,511,080",167.23,-,-,2023-07-28,Before Market Open,1.7,Energy,Oil & Gas Integrated
+CXW,"628,830",10.34,-,-,2023-08-07,After Close,3.3,Industrials,Security & Protection Services
+CYBR,"342,520",171.59,-,-,2023-08-10,Before Market Open,-,Technology,Software - Infrastructure
+CYH,"1,352,820",3.16,-,-,2023-08-02,After Close,8.1,Healthcare,Medical Care Facilities
+D,"4,181,860",48.51,-,-,2023-08-04,Before Market Open,1.4,Utilities,Utilities - Regulated Electric
+DAL,"9,758,050",39.33,-,-,2023-07-13,Before Market Open,2.5,Industrials,Airlines
+DAN,"1,656,910",15.33,-,-,2023-07-28,Before Market Open,-,Consumer Cyclical,Auto Parts
+DB,"2,282,790",11.01,-,-,2023-07-26,Before Market Open,-,Financial,Banks - Regional
+DCI,"431,360",61.89,-,-,2023-08-29,Before Market Open,-,Industrials,Specialty Industrial Machinery
+DD,"2,731,390",75.17,-,-,2023-08-02,Before Market Open,2.2,Basic Materials,Specialty Chemicals
+DDD,"2,210,100",5.31,-,-,2023-08-09,Before Market Open,12.8,Technology,Computer Hardware
+DE,"1,464,030",411.68,-,-,2023-08-18,Before Market Open,4.1,Industrials,Farm & Heavy Construction Machinery
+DECK,"354,890",536.91,-,-,2023-07-27,After Close,-,Consumer Cyclical,Footwear & Accessories
+DEI,"3,129,660",13.37,-,-,2023-08-01,After Close,-,Real Estate,REIT - Office
+DFS,"2,478,480",90.08,-,-,2023-07-19,After Close,4,Financial,Credit Services
+DG,"3,259,940",117.79,-,-,2023-08-31,Before Market Open,5,Consumer Defensive,Discount Stores
+DGX,"808,130",127.35,-,-,2023-07-26,Before Market Open,3.5,Healthcare,Diagnostics & Research
+DHI,"2,985,810",115.20,-,-,2023-07-20,Before Market Open,4.8,Consumer Cyclical,Residential Construction
+DHR,"2,760,360",253.48,-,-,2023-07-25,Before Market Open,2.4,Healthcare,Diagnostics & Research
+DIS,"16,109,730",84.48,-,-,2023-08-09,After Close,2.8,Communication Services,Entertainment
+DISH,"11,292,800",6.82,-,-,2023-08-08,Before Market Open,-,Communication Services,Telecom Services
+DK,"1,278,670",30.27,-,-,2023-08-07,Before Market Open,5,Energy,Oil & Gas Refining & Marketing
+DKS,"1,672,210",114.14,-,-,2023-08-22,Before Market Open,7,Consumer Cyclical,Specialty Retail
+DLR,"2,540,280",128.48,-,-,2023-07-27,After Close,2.7,Real Estate,REIT - Specialty
+DLTR,"2,202,840",113.34,-,-,2023-08-24,Before Market Open,5.7,Consumer Defensive,Discount Stores
+DNOW,"666,520",11.71,-,-,2023-08-02,Before Market Open,-,Energy,Oil & Gas Equipment & Services
+DO,"1,310,170",16.16,-,-,2023-08-07,After Close,-,Energy,Oil & Gas Drilling
+DOV,"832,920",144.16,-,-,2023-07-25,Before Market Open,2.8,Industrials,Specialty Industrial Machinery
+DOW,"4,340,650",54.04,-,-,2023-07-25,Before Market Open,3.4,Basic Materials,Chemicals
+DOX,"568,230",87.78,-,-,2023-08-02,After Close,-,Technology,Software - Infrastructure
+DRI,"1,158,300",151.82,-,-,2023-09-21,Before Market Open,5.4,Consumer Cyclical,Restaurants
+DTE,"1,190,270",106.74,-,-,2023-07-27,Before Market Open,1.5,Utilities,Utilities - Regulated Electric
+DUK,"2,920,230",95.45,-,-,2023-08-08,Before Market Open,1.2,Utilities,Utilities - Regulated Electric
+DV,"1,790,520",28.92,-,-,2023-07-31,After Close,-,Technology,Software - Application
+DVA,"677,380",98.39,-,-,2023-08-03,After Close,-,Healthcare,Medical Care Facilities
+DVAX,"1,801,610",14.13,-,-,2023-08-03,After Close,6.1,Healthcare,Drug Manufacturers - Specialty & Generic
+DVN,"8,018,590",50.93,-,-,2023-08-01,After Close,3.7,Energy,Oil & Gas E&P
+DXCM,"3,460,530",101.55,-,-,2023-07-27,After Close,8.3,Healthcare,Medical Devices
+DY,"304,840",97.69,-,-,2023-08-23,Before Market Open,-,Industrials,Engineering & Construction
+DYN,"506,640",9.34,-,-,2023-08-03,Before Market Open,-,Healthcare,Biotechnology
+EA,"2,213,690",123.04,-,-,2023-08-01,After Close,5.7,Communication Services,Electronic Gaming & Multimedia
+EAT,"974,760",32.36,-,-,2023-08-16,Before Market Open,6.7,Consumer Cyclical,Restaurants
+EBAY,"5,126,140",44.36,-,-,2023-07-26,After Close,6.1,Consumer Cyclical,Internet Retail
+ECL,"1,033,850",177.67,-,-,2023-08-01,Before Market Open,2.4,Basic Materials,Specialty Chemicals
+ED,"1,756,510",92.38,-,-,2023-08-03,After Close,-,Utilities,Utilities - Regulated Electric
+EDU,"1,610,940",58.70,-,-,2023-07-26,Before Market Open,6,Consumer Defensive,Education & Training Services
+EFX,"910,250",199.70,-,-,2023-07-19,After Close,-,Industrials,Consulting Services
+EGHT,"1,865,880",2.62,-,-,2023-08-08,After Close,-,Technology,Software - Application
+EIX,"1,405,830",71.52,-,-,2023-07-27,After Close,2.2,Utilities,Utilities - Regulated Electric
+EL,"2,521,300",154.24,-,-,2023-08-18,Before Market Open,-,Consumer Defensive,Household & Personal Products
+EMN,"893,410",79.63,-,-,2023-07-27,After Close,3.7,Basic Materials,Specialty Chemicals
+EMR,"2,649,290",98.60,-,-,2023-08-02,Before Market Open,-,Industrials,Specialty Industrial Machinery
+ENB,"5,036,610",35.32,-,-,2023-08-04,Before Market Open,1.9,Energy,Oil & Gas Midstream
+ENR,"526,880",34.39,-,-,2023-08-08,Before Market Open,-,Industrials,Electrical Equipment & Parts
+EOG,"2,867,940",134.66,-,-,2023-08-03,After Close,3.4,Energy,Oil & Gas E&P
+EPD,"3,917,400",27.09,-,-,2023-08-01,Before Market Open,-,Energy,Oil & Gas Midstream
+EQIX,"395,660",782.17,-,-,2023-08-02,After Close,-,Real Estate,REIT - Specialty
+EQR,"1,637,300",63.21,-,-,2023-07-27,After Close,1.7,Real Estate,REIT - Residential
+EQT,"5,553,250",42.59,-,-,2023-07-25,After Close,4.3,Energy,Oil & Gas E&P
+ERJ,"1,381,110",14.58,-,-,2023-08-14,Before Market Open,4,Industrials,Aerospace & Defense
+ES,"2,081,010",64.44,-,-,2023-07-31,After Close,1,Utilities,Utilities - Regulated Electric
+ETN,"2,089,570",222.15,-,-,2023-08-01,Before Market Open,2.9,Industrials,Specialty Industrial Machinery
+ETR,"1,664,830",98.75,-,-,2023-08-02,Before Market Open,1.7,Utilities,Utilities - Regulated Electric
+ETSY,"3,249,250",66.68,-,-,2023-08-02,After Close,10.6,Consumer Cyclical,Internet Retail
+EURN,"1,036,470",15.49,-,-,2023-08-03,Before Market Open,-,Energy,Oil & Gas Midstream
+EW,"3,206,190",74.02,-,-,2023-07-26,After Close,5.2,Healthcare,Medical Devices
+EWBC,"930,630",54.89,-,-,2023-07-20,Before Market Open,4.9,Financial,Banks - Diversified
+EXAS,"1,474,640",77.38,-,-,2023-08-01,After Close,8.3,Healthcare,Diagnostics & Research
+EXC,"5,146,440",41.84,-,-,2023-08-02,Before Market Open,1.7,Utilities,Utilities - Regulated Electric
+EXP,"324,920",177.96,-,-,2023-07-27,Before Market Open,-,Basic Materials,Building Materials
+EXPD,"972,130",118.34,-,-,2023-08-08,Before Market Open,-,Industrials,Integrated Freight & Logistics
+EXPE,"2,506,410",106.93,-,-,2023-08-03,Before Market Open,7.8,Consumer Cyclical,Travel Services
+EXPR,"70,740",8.99,-,-,2023-09-06,Before Market Open,11.3,Consumer Cyclical,Apparel Retail
+EXR,"1,977,860",126.21,-,-,2023-08-03,After Close,2.7,Real Estate,REIT - Industrial
+FAF,"499,310",60.41,-,-,2023-07-27,Before Market Open,3,Financial,Insurance - Specialty
+FANG,"1,944,800",157.92,-,-,2023-07-31,After Close,-,Energy,Oil & Gas E&P
+FAST,"3,052,500",54.82,-,-,2023-07-13,Before Market Open,4.8,Industrials,Industrial Distribution
+FCX,"10,614,980",40.68,-,-,2023-07-20,Before Market Open,4.3,Basic Materials,Copper
+FDX,"1,985,270",257.03,-,-,2023-09-20,After Close,4.6,Industrials,Integrated Freight & Logistics
+FE,"2,963,900",36.89,-,-,2023-08-01,After Close,2.1,Utilities,Utilities - Regulated Electric
+FET,"75,060",24.90,-,-,2023-08-03,After Close,-,Energy,Oil & Gas Equipment & Services
+FFIV,"519,730",160.72,-,-,2023-07-24,After Close,-,Technology,Software - Infrastructure
+FIS,"4,402,830",56.38,-,-,2023-08-02,Before Market Open,3.5,Technology,Information Technology Services
+FITB,"5,179,100",27.52,-,-,2023-07-20,Before Market Open,-,Financial,Banks - Regional
+FIVE,"677,310",160.80,-,-,2023-08-30,After Close,6.5,Consumer Cyclical,Specialty Retail
+FL,"4,375,650",18.49,-,-,2023-08-23,Before Market Open,8,Consumer Cyclical,Apparel Retail
+FLO,"1,768,090",23.11,-,-,2023-08-10,After Close,-,Consumer Defensive,Packaged Foods
+FLR,"1,802,740",35.59,-,-,2023-08-04,Before Market Open,6.1,Industrials,Engineering & Construction
+FLS,"900,860",39.03,-,-,2023-08-01,After Close,5,Industrials,Specialty Industrial Machinery
+FLT,"433,680",273.67,-,-,2023-08-08,After Close,-,Technology,Software - Infrastructure
+FMC,"1,555,060",75.61,-,-,2023-08-02,After Close,-,Basic Materials,Agricultural Inputs
+FNF,"1,386,390",42.29,-,-,2023-08-08,After Close,2.3,Financial,Insurance - Specialty
+FNV,"415,980",142.07,-,-,2023-08-08,After Close,2.6,Basic Materials,Gold
+FOLD,"2,263,930",13.11,-,-,2023-08-08,Before Market Open,-,Healthcare,Biotechnology
+FOSL,"416,060",2.26,-,-,2023-08-09,After Close,14.4,Consumer Cyclical,Luxury Goods
+FOX,"984,920",29.52,-,-,2023-08-08,Before Market Open,3.1,Communication Services,Entertainment
+FOXA,"4,168,860",32.03,-,-,2023-08-08,Before Market Open,4.1,Communication Services,Entertainment
+FR,"929,670",51.54,-,-,2023-07-19,After Close,1.3,Real Estate,REIT - Industrial
+FSLR,"1,981,730",177.00,-,-,2023-07-27,After Close,10.3,Technology,Solar
+FTI,"6,583,400",20.79,-,-,2023-07-27,Before Market Open,-,Energy,Oil & Gas Equipment & Services
+FTK,"179,650",0.86,-,-,2023-08-08,After Close,-,Energy,Oil & Gas Equipment & Services
+FTNT,"6,275,280",63.10,-,-,2023-08-03,After Close,8.3,Technology,Software - Infrastructure
+G,"1,247,750",37.03,-,-,2023-08-09,After Close,3.9,Technology,Information Technology Services
+GBX,"331,980",39.85,-,-,2023-06-29,Before Market Open,-,Industrials,Railroads
+GCI,"1,788,660",2.93,-,-,2023-08-03,Before Market Open,-,Communication Services,Publishing
+GD,"1,076,950",221.46,-,-,2023-07-26,Before Market Open,2.6,Industrials,Aerospace & Defense
+GE,"4,542,370",115.65,-,-,2023-07-25,Before Market Open,-,Industrials,Specialty Industrial Machinery
+GES,"992,330",22.52,-,-,2023-08-23,After Close,12.9,Consumer Cyclical,Apparel Retail
+GILD,"5,631,770",77.36,-,-,2023-08-03,After Close,-,Healthcare,Drug Manufacturers - General
+GIS,"3,826,040",66.36,-,-,2023-09-20,Before Market Open,2.5,Consumer Defensive,Packaged Foods
+GLNG,"927,460",23.91,-,-,2023-08-10,Before Market Open,4.8,Energy,Oil & Gas Midstream
+GLPI,"1,318,050",48.50,-,-,2023-07-27,After Close,1.8,Real Estate,REIT - Specialty
+GLW,"4,119,260",31.48,-,-,2023-07-25,Before Market Open,4.6,Technology,Electronic Components
+GM,"12,628,080",33.66,-,-,2023-07-25,Before Market Open,3.2,Consumer Cyclical,Auto Manufacturers
+GME,"2,809,360",18.33,-,-,2023-09-06,After Close,8,Consumer Cyclical,Specialty Retail
+GNRC,"1,610,150",111.92,-,-,2023-08-02,Before Market Open,-,Industrials,Specialty Industrial Machinery
+GNTX,"1,290,080",32.22,-,-,2023-07-28,Before Market Open,5.7,Consumer Cyclical,Auto Parts
+GOLD,"13,336,680",16.33,-,-,2023-08-08,Before Market Open,3.5,Basic Materials,Gold
+GOOG,"22,722,280",138.99,-,-,2023-07-25,After Close,4.3,Communication Services,Internet Content & Information
+GOOGL,"29,216,450",138.10,-,-,2023-07-25,After Close,4.3,Communication Services,Internet Content & Information
+GPC,"862,260",150.20,-,-,2023-07-20,Before Market Open,3,Consumer Cyclical,Specialty Retail
+GPN,"2,001,290",125.68,-,-,2023-08-01,Before Market Open,4.7,Industrials,Specialty Business Services
+GPOR,"199,250",119.94,-,-,2023-08-01,After Close,-,Energy,Oil & Gas E&P
+GPRO,"1,325,070",3.56,-,-,2023-08-03,After Close,10.2,Technology,Consumer Electronics
+GPS,"7,539,300",10.99,-,-,2023-08-24,After Close,-,Consumer Cyclical,Apparel Retail
+GRFS,"698,050",9.86,-,-,2023-07-27,Before Market Open,2.7,Healthcare,Drug Manufacturers - General
+GRMN,"760,880",106.57,-,-,2023-08-02,Before Market Open,6,Technology,Scientific & Technical Instruments
+GS,"2,236,220",344.57,-,-,2023-07-19,Before Market Open,-,Financial,Capital Markets
+GSK,"3,474,610",37.39,-,-,2023-07-26,Before Market Open,-,Healthcare,Drug Manufacturers - General
+GSM,"991,010",5.61,-,-,2023-08-14,After Close,-,Basic Materials,Other Industrial Metals & Mining
+GT,"4,134,870",12.71,-,-,2023-08-02,After Close,6.6,Consumer Cyclical,Auto Parts
+GWW,"260,420",696.26,-,-,2023-07-27,Before Market Open,-,Industrials,Industrial Distribution
+H,"653,940",107.37,-,-,2023-08-03,Before Market Open,-,Consumer Cyclical,Lodging
+HA,"1,444,350",8.12,-,-,2023-07-25,After Close,6.3,Industrials,Airlines
+HAIN,"984,490",10.25,-,-,2023-08-24,Before Market Open,-,Consumer Defensive,Packaged Foods
+HAL,"7,923,090",42.21,-,-,2023-07-19,Before Market Open,3.3,Energy,Oil & Gas Equipment & Services
+HALO,"1,046,600",40.52,-,-,2023-08-08,After Close,4.3,Healthcare,Biotechnology
+HAS,"1,649,480",68.13,-,-,2023-08-03,Before Market Open,5.8,Consumer Cyclical,Leisure
+HBI,"7,656,900",4.68,-,-,2023-08-10,Before Market Open,7.3,Consumer Cyclical,Apparel Manufacturing
+HCA,"1,259,950",263.58,-,-,2023-07-27,Before Market Open,3.3,Healthcare,Medical Care Facilities
+HCP,"1,994,590",25.17,-,-,2023-08-31,After Close,-,Technology,Software - Infrastructure
+HD,"3,237,280",329.63,-,-,2023-08-15,Before Market Open,-,Consumer Cyclical,Home Improvement Retail
+HES,"1,698,460",164.88,-,-,2023-07-26,Before Market Open,-,Energy,Oil & Gas E&P
+HIG,"1,350,080",73.34,-,-,2023-07-27,After Close,-,Financial,Insurance - Diversified
+HIW,"1,055,000",22.84,-,-,2023-07-25,After Close,1.4,Real Estate,REIT - Office
+HLF,"1,448,050",15.01,-,-,2023-08-02,After Close,7,Consumer Defensive,Packaged Foods
+HLT,"1,798,770",156.15,-,-,2023-07-26,Before Market Open,2.7,Consumer Cyclical,Lodging
+HOG,"1,415,440",34.38,-,-,2023-07-27,Before Market Open,-,Consumer Cyclical,Recreational Vehicles
+HOLX,"1,760,070",72.35,-,-,2023-07-31,After Close,-,Healthcare,Medical Instruments & Supplies
+HON,"2,718,300",193.56,-,-,2023-07-27,Before Market Open,2.1,Industrials,Conglomerates
+HP,"1,330,740",45.96,-,-,2023-07-26,After Close,-,Energy,Oil & Gas Drilling
+HPE,"11,517,630",17.21,-,-,2023-08-29,After Close,-,Technology,Communication Equipment
+HR,"2,429,330",16.84,-,-,2023-08-08,Before Market Open,1.3,Real Estate,REIT - Healthcare Facilities
+HRB,"1,360,140",39.41,-,-,2023-08-15,After Close,7,Consumer Cyclical,Personal Services
+HRL,"1,926,020",38.41,-,-,2023-08-31,Before Market Open,3.6,Consumer Defensive,Packaged Foods
+HSBC,"1,633,210",39.37,-,-,2023-08-01,Before Market Open,2.7,Financial,Banks - Diversified
+HST,"7,215,110",16.26,-,-,2023-08-02,After Close,2.2,Real Estate,REIT - Hotel & Motel
+HSY,"1,252,950",211.79,-,-,2023-07-27,Before Market Open,-,Consumer Defensive,Confectioners
+HTLD,"261,700",16.03,-,-,2023-07-31,Before Market Open,-,Industrials,Trucking
+HTZ,"2,748,290",16.36,-,-,2023-07-27,Before Market Open,-,Industrials,Rental & Leasing Services
+HUM,"1,421,160",471.57,-,-,2023-08-02,Before Market Open,3.2,Healthcare,Healthcare Plans
+HUN,"1,915,530",25.73,-,-,2023-07-31,After Close,3.8,Basic Materials,Chemicals
+HZNP,"2,296,870",115.35,-,-,2023-08-08,Before Market Open,-,Healthcare,Drug Manufacturers - General
+IAC,"563,440",53.05,-,-,2023-08-08,After Close,-,Communication Services,Internet Content & Information
+IBKR,"921,410",92.70,-,-,2023-07-18,After Close,-,Financial,Capital Markets
+IBM,"4,074,230",147.35,-,-,2023-07-19,After Close,4.1,Technology,Information Technology Services
+ICE,"2,359,080",116.90,-,-,2023-08-03,Before Market Open,3.3,Financial,Financial Data & Stock Exchanges
+ILMN,"1,567,230",150.49,-,-,2023-08-09,After Close,7.2,Healthcare,Diagnostics & Research
+IMAX,"577,780",18.53,-,-,2023-07-26,After Close,5.9,Communication Services,Entertainment
+IMGN,"4,786,690",15.76,-,-,2023-07-31,Before Market Open,-,Healthcare,Biotechnology
+INCY,"1,725,670",63.48,-,-,2023-08-01,Before Market Open,3.9,Healthcare,Biotechnology
+INFN,"2,466,350",4.32,-,-,2023-08-09,After Close,-,Technology,Communication Equipment
+INTC,"39,514,920",38.67,-,-,2023-07-27,Before Market Open,-,Technology,Semiconductors
+INTU,"1,423,190",547.60,-,-,2023-08-24,After Close,3.9,Technology,Software - Application
+INVA,"545,150",12.78,-,-,2023-08-02,After Close,-,Healthcare,Biotechnology
+IONS,"948,540",43.64,-,-,2023-08-09,Before Market Open,-,Healthcare,Biotechnology
+IP,"2,979,640",34.61,-,-,2023-07-27,Before Market Open,3.1,Consumer Cyclical,Packaging & Containers
+IPG,"4,349,020",31.05,-,-,2023-07-21,Before Market Open,4.3,Communication Services,Advertising Agencies
+IR,"2,405,490",66.56,-,-,2023-08-02,After Close,3.6,Industrials,Specialty Industrial Machinery
+IRM,"1,355,930",63.82,-,-,2023-08-03,Before Market Open,-,Real Estate,REIT - Specialty
+IRWD,"2,179,120",8.52,-,-,2023-08-08,Before Market Open,-,Healthcare,Drug Manufacturers - Specialty & Generic
+ITW,"1,029,780",239.67,-,-,2023-08-01,Before Market Open,2.6,Industrials,Specialty Industrial Machinery
+IVZ,"3,837,590",15.51,-,-,2023-07-25,Before Market Open,3.1,Financial,Asset Management
+JBHT,"774,120",190.68,-,-,2023-07-18,After Close,-,Industrials,Integrated Freight & Logistics
+JBL,"1,249,330",108.68,-,-,2023-09-28,Before Market Open,7.1,Technology,Electronic Components
+JBLU,"16,339,390",5.13,-,-,2023-08-01,Before Market Open,3.9,Industrials,Airlines
+JCI,"3,976,880",57.12,-,-,2023-08-02,Before Market Open,3.7,Industrials,Building Products & Equipment
+JD,"10,047,360",31.72,-,-,2023-08-16,Before Market Open,5.3,Consumer Cyclical,Internet Retail
+JKS,"808,650",30.56,-,-,2023-08-14,Before Market Open,6.6,Technology,Solar
+JNJ,"22,846,130",163.74,-,-,2023-07-20,Before Market Open,-,Healthcare,Drug Manufacturers - General
+JNPR,"3,724,220",28.35,-,-,2023-07-27,After Close,6,Technology,Communication Equipment
+JPM,"9,354,460",149.25,-,-,2023-07-14,Before Market Open,-,Financial,Banks - Diversified
+JWN,"4,682,420",14.85,-,-,2023-08-25,Before Market Open,6,Consumer Cyclical,Department Stores
+K,"2,375,010",59.91,-,-,2023-08-03,Before Market Open,2.9,Consumer Defensive,Packaged Foods
+KAR,"569,360",15.82,-,-,2023-08-02,After Close,5.6,Consumer Cyclical,Auto & Truck Dealerships
+KBH,"1,584,240",49.91,-,-,2023-09-20,After Close,5.4,Consumer Cyclical,Residential Construction
+KBR,"1,115,500",60.82,-,-,2023-07-27,Before Market Open,4.6,Industrials,Engineering & Construction
+KEX,"327,350",86.19,-,-,2023-07-27,Before Market Open,-,Industrials,Marine Shipping
+KEYS,"1,317,700",133.12,-,-,2023-08-17,After Close,5,Technology,Scientific & Technical Instruments
+KHC,"7,635,270",33.77,-,-,2023-08-02,Before Market Open,5.4,Consumer Defensive,Packaged Foods
+KIM,"4,346,120",19.06,-,-,2023-07-27,Before Market Open,2.6,Real Estate,REIT - Retail
+KKR,"3,335,910",63.72,-,-,2023-08-07,Before Market Open,-,Financial,Asset Management
+KLAC,"960,480",479.90,-,-,2023-07-27,After Close,-,Technology,Semiconductor Equipment & Materials
+KMB,"1,662,530",125.88,-,-,2023-07-25,Before Market Open,2.3,Consumer Defensive,Household & Personal Products
+KMI,"12,690,730",17.31,-,-,2023-07-19,After Close,-,Energy,Oil & Gas Midstream
+KMT,"688,520",25.52,-,-,2023-08-01,Before Market Open,-,Industrials,Tools & Accessories
+KMX,"1,601,040",83.85,-,-,2023-09-28,Before Market Open,6.3,Consumer Cyclical,Auto & Truck Dealerships
+KN,"521,410",14.39,-,-,2023-08-02,After Close,-,Technology,Communication Equipment
+KNX,"1,830,840",53.57,-,-,2023-07-20,After Close,3.8,Industrials,Trucking
+KO,"12,107,110",58.46,-,-,2023-07-26,Before Market Open,2.1,Consumer Defensive,Beverages - Non-Alcoholic
+KR,"4,777,750",45.79,-,-,2023-09-08,Before Market Open,-,Consumer Defensive,Grocery Stores
+KRC,"1,068,530",36.09,-,-,2023-07-31,After Close,-,Real Estate,REIT - Office
+KSS,"3,817,790",22.76,-,-,2023-08-23,Before Market Open,5.7,Consumer Cyclical,Department Stores
+L,"687,550",64.54,-,-,2023-07-31,Before Market Open,2.7,Financial,Insurance - Property & Casualty
+LAZ,"680,610",33.17,-,-,2023-07-27,Before Market Open,3.4,Financial,Capital Markets
+LBTYA,"2,059,860",18.31,-,-,2023-07-24,After Close,2.6,Communication Services,Telecom Services
+LBTYK,"2,375,800",19.66,-,-,2023-07-24,After Close,2.5,Communication Services,Telecom Services
+LC,"1,814,410",6.83,-,-,2023-07-26,After Close,8.7,Financial,Credit Services
+LEA,"569,310",138.61,-,-,2023-08-01,Before Market Open,-,Consumer Cyclical,Auto Parts
+LEG,"1,388,890",26.81,-,-,2023-07-31,After Close,4.5,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+LEN,"2,184,330",117.70,2023-09-15,09:49:00,2023-09-14,After Close,4.3,Consumer Cyclical,Residential Construction
+LH,"764,900",203.64,-,-,2023-07-27,Before Market Open,-,Healthcare,Diagnostics & Research
+LKQ,"1,233,440",50.33,-,-,2023-07-27,Before Market Open,4.8,Consumer Cyclical,Auto Parts
+LL,"550,090",2.91,-,-,2023-08-09,Before Market Open,-,Consumer Cyclical,Home Improvement Retail
+LLY,"2,870,740",591.61,-,-,2023-08-08,Before Market Open,2,Healthcare,Drug Manufacturers - General
+LMT,"1,033,770",425.89,-,-,2023-07-18,Before Market Open,2.4,Industrials,Aerospace & Defense
+LNC,"2,365,410",25.71,-,-,2023-08-02,After Close,4.2,Financial,Insurance - Life
+LNG,"1,370,600",165.56,-,-,2023-08-03,Before Market Open,2.3,Energy,Oil & Gas Midstream
+LOW,"2,488,850",230.87,-,-,2023-08-22,Before Market Open,4.5,Consumer Cyclical,Home Improvement Retail
+LPLA,"631,920",245.49,-,-,2023-07-27,After Close,-,Financial,Capital Markets
+LPX,"1,005,090",59.25,-,-,2023-08-02,Before Market Open,3.9,Industrials,Building Products & Equipment
+LRCX,"1,146,360",656.43,-,-,2023-07-26,After Close,4.7,Technology,Semiconductor Equipment & Materials
+LULU,"1,202,970",388.74,-,-,2023-08-31,After Close,-,Consumer Cyclical,Apparel Retail
+LUV,"7,561,800",28.94,-,-,2023-07-27,Before Market Open,4,Industrials,Airlines
+LVS,"4,338,880",48.93,-,-,2023-07-19,After Close,4.8,Consumer Cyclical,Resorts & Casinos
+LYB,"1,993,010",100.69,-,-,2023-08-04,Before Market Open,-,Basic Materials,Specialty Chemicals
+LYV,"2,101,150",85.01,-,-,2023-07-27,After Close,4.4,Communication Services,Entertainment
+M,"10,412,740",11.36,-,-,2023-08-22,Before Market Open,5.7,Consumer Cyclical,Department Stores
+MA,"2,417,720",413.34,-,-,2023-07-27,Before Market Open,4.2,Financial,Credit Services
+MAC,"2,521,560",12.15,-,-,2023-08-08,Before Market Open,1.7,Real Estate,REIT - Retail
+MACK,"105,800",12.41,-,-,2023-08-03,After Close,-,Healthcare,Biotechnology
+MAR,"2,034,920",204.21,-,-,2023-08-01,Before Market Open,2.8,Consumer Cyclical,Lodging
+MAS,"1,701,490",55.88,-,-,2023-07-27,Before Market Open,4.2,Industrials,Building Products & Equipment
+MAT,"3,453,380",21.24,-,-,2023-07-26,After Close,6.3,Consumer Cyclical,Leisure
+MBLY,"2,542,460",36.24,-,-,2023-07-27,Before Market Open,-,Consumer Cyclical,Auto Parts
+MCD,"2,354,070",284.76,-,-,2023-07-27,Before Market Open,2,Consumer Cyclical,Restaurants
+MCHP,"4,749,010",80.03,-,-,2023-08-03,After Close,-,Technology,Semiconductors
+MCK,"761,680",419.60,-,-,2023-08-02,After Close,3.9,Healthcare,Medical Distribution
+MCO,"671,640",348.86,-,-,2023-07-25,Before Market Open,-,Financial,Financial Data & Stock Exchanges
+MD,"433,370",12.55,-,-,2023-08-03,Before Market Open,-,Healthcare,Medical Care Facilities
+MDC,"645,400",44.75,-,-,2023-07-27,Before Market Open,-,Consumer Cyclical,Residential Construction
+MDLZ,"6,166,430",72.38,-,-,2023-07-27,After Close,3.2,Consumer Defensive,Confectioners
+MDRX,"830,260",12.47,-,-,-,-,-,Healthcare,Health Information Services
+MDT,"4,756,550",81.96,-,-,2023-08-22,Before Market Open,3.1,Healthcare,Medical Devices
+MDU,"1,906,140",19.89,-,-,2023-08-08,Before Market Open,-,Industrials,Conglomerates
+MEOH,"245,280",41.44,-,-,2023-07-26,After Close,-,Basic Materials,Chemicals
+MET,"3,933,680",65.93,-,-,2023-08-02,After Close,3,Financial,Insurance - Life
+META,"23,669,860",311.72,-,-,2023-07-26,After Close,-,Communication Services,Internet Content & Information
+MFC,"3,414,420",19.23,-,-,2023-08-09,After Close,-,Financial,Insurance - Life
+MGA,"1,136,180",56.52,-,-,2023-08-04,Before Market Open,-,Consumer Cyclical,Auto Parts
+MGM,"4,462,340",41.58,-,-,2023-08-02,After Close,4.3,Consumer Cyclical,Resorts & Casinos
+MKC,"1,360,350",80.38,-,-,2023-10-03,Before Market Open,-,Consumer Defensive,Packaged Foods
+MLM,"383,810",435.80,-,-,2023-07-27,Before Market Open,-,Basic Materials,Building Materials
+MMC,"1,432,270",198.55,-,-,2023-07-20,Before Market Open,2.7,Financial,Insurance Brokers
+MMM,"3,697,750",102.32,-,-,2023-07-25,Before Market Open,3.1,Industrials,Conglomerates
+MMP,"1,158,540",69.28,-,-,2023-08-03,Before Market Open,1.6,Energy,Oil & Gas Midstream
+MNST,"4,316,590",56.87,-,-,2023-08-03,After Close,5.2,Consumer Defensive,Beverages - Non-Alcoholic
+MO,"7,379,910",44.10,-,-,2023-08-01,Before Market Open,-,Consumer Defensive,Tobacco
+MOH,"453,430",326.99,-,-,2023-07-26,After Close,-,Healthcare,Healthcare Plans
+MOMO,"1,265,630",7.22,-,-,2023-08-31,Before Market Open,9.2,Communication Services,Internet Content & Information
+MOS,"3,637,780",38.84,-,-,2023-08-01,After Close,5.1,Basic Materials,Agricultural Inputs
+MPC,"3,339,380",156.19,-,-,2023-08-01,Before Market Open,-,Energy,Oil & Gas Refining & Marketing
+MPLX,"1,795,300",34.92,-,-,2023-08-01,Before Market Open,-,Energy,Oil & Gas Midstream
+MRC,"628,130",10.36,-,-,2023-08-07,After Close,-,Energy,Oil & Gas Equipment & Services
+MRK,"7,370,390",108.24,-,-,2023-08-01,Before Market Open,2.5,Healthcare,Drug Manufacturers - General
+MRO,"11,302,100",27.33,-,-,2023-08-02,After Close,3.3,Energy,Oil & Gas E&P
+MS,"7,084,160",89.07,-,-,2023-07-18,Before Market Open,2.6,Financial,Capital Markets
+MSCI,"438,110",538.69,-,-,2023-07-25,Before Market Open,-,Financial,Financial Data & Stock Exchanges
+MSFT,"25,399,350",338.70,-,-,2023-07-25,After Close,3.2,Technology,Software - Infrastructure
+MSI,"753,560",284.83,-,-,2023-08-03,After Close,-,Technology,Communication Equipment
+MTB,"1,012,800",128.94,-,-,2023-07-19,Before Market Open,-,Financial,Banks - Regional
+MTCH,"4,381,640",44.04,-,-,2023-08-01,After Close,4.7,Communication Services,Internet Content & Information
+MTDR,"1,534,280",62.88,-,-,2023-07-25,After Close,3.9,Energy,Oil & Gas E&P
+MTW,"297,950",14.76,-,-,2023-08-07,After Close,-,Industrials,Farm & Heavy Construction Machinery
+MTZ,"709,570",87.19,-,-,2023-08-03,After Close,6.8,Industrials,Engineering & Construction
+MU,"14,175,780",71.79,-,-,2023-09-27,After Close,6.3,Technology,Semiconductors
+MUR,"1,593,930",46.16,-,-,2023-08-03,Before Market Open,3.7,Energy,Oil & Gas E&P
+MXL,"1,363,860",22.83,-,-,2023-07-26,After Close,9.3,Technology,Semiconductors
+MYGN,"486,920",16.54,-,-,2023-08-03,After Close,12.7,Healthcare,Diagnostics & Research
+NAT,"2,586,440",3.78,-,-,2023-08-28,Before Market Open,-,Industrials,Marine Shipping
+NAVI,"1,314,010",17.73,-,-,2023-07-26,Before Market Open,-,Financial,Credit Services
+NBIX,"763,920",113.78,-,-,2023-08-01,Before Market Open,-,Healthcare,Drug Manufacturers - Specialty & Generic
+NBR,"203,590",135.90,-,-,2023-07-25,After Close,-,Energy,Oil & Gas Drilling
+NCLH,"12,959,780",17.28,-,-,2023-08-01,Before Market Open,4.4,Consumer Cyclical,Travel Services
+NCR,"1,087,820",27.59,-,-,2023-08-02,After Close,6,Technology,Information Technology Services
+NDAQ,"3,247,250",51.47,-,-,2023-07-19,Before Market Open,-,Financial,Financial Data & Stock Exchanges
+NE,"1,444,400",53.52,-,-,2023-08-02,After Close,-,Energy,Oil & Gas Drilling
+NEE,"8,223,880",69.28,-,-,2023-07-25,Before Market Open,1.8,Utilities,Utilities - Regulated Electric
+NEM,"7,087,530",39.52,-,-,2023-07-20,Before Market Open,3.1,Basic Materials,Gold
+NFG,"623,260",54.38,-,-,2023-08-02,After Close,-,Energy,Oil & Gas Integrated
+NFLX,"6,264,620",400.49,-,-,2023-07-19,After Close,10.7,Communication Services,Entertainment
+NGL,"445,160",3.84,-,-,2023-08-09,After Close,-,Energy,Oil & Gas Midstream
+NKE,"7,547,710",97.19,-,-,2023-09-28,After Close,4.9,Consumer Cyclical,Footwear & Accessories
+NKTR,"7,035,750",0.67,-,-,2023-08-08,After Close,7.3,Healthcare,Biotechnology
+NNN,"1,468,370",38.48,-,-,2023-08-02,Before Market Open,1.6,Real Estate,REIT - Retail
+NOC,"689,430",432.32,-,-,2023-07-27,Before Market Open,-,Industrials,Aerospace & Defense
+NOV,"4,066,300",20.85,-,-,2023-07-26,After Close,4.3,Energy,Oil & Gas Equipment & Services
+NOW,"1,101,400",590.11,-,-,2023-07-26,After Close,6.7,Technology,Software - Application
+NRG,"4,021,630",39.14,-,-,2023-08-08,Before Market Open,3.2,Utilities,Utilities - Independent Power Producers
+NSC,"1,160,210",206.60,-,-,2023-07-27,Before Market Open,3.5,Industrials,Railroads
+NTAP,"2,178,430",78.55,-,-,2023-08-23,After Close,-,Technology,Computer Hardware
+NTCT,"372,550",27.78,-,-,2023-07-27,Before Market Open,-,Technology,Software - Infrastructure
+NTES,"1,009,750",101.76,-,-,2023-08-24,Before Market Open,-,Communication Services,Electronic Gaming & Multimedia
+NTRS,"1,381,660",73.46,-,-,2023-07-19,Before Market Open,-,Financial,Asset Management
+NUE,"1,279,410",165.53,-,-,2023-07-25,Before Market Open,2.7,Basic Materials,Steel
+NUS,"809,170",23.95,-,-,2023-08-01,After Close,-,Consumer Defensive,Household & Personal Products
+NVAX,"8,807,100",7.99,-,-,2023-08-08,Before Market Open,11,Healthcare,Biotechnology
+NVDA,"50,290,820",455.81,-,-,2023-08-23,After Close,6.8,Technology,Semiconductors
+NVO,"1,685,710",192.87,-,-,2023-08-10,Before Market Open,4,Healthcare,Biotechnology
+NVS,"1,384,760",101.83,-,-,2023-07-18,Before Market Open,-,Healthcare,Drug Manufacturers - General
+NWL,"5,611,240",9.72,-,-,2023-07-28,Before Market Open,8.5,Consumer Defensive,Household & Personal Products
+NWSA,"2,231,960",20.51,-,-,2023-08-10,After Close,5.3,Communication Services,Entertainment
+NXPI,"2,210,580",202.69,-,-,2023-07-24,After Close,4,Technology,Semiconductors
+O,"5,157,160",55.12,-,-,2023-08-02,After Close,-,Real Estate,REIT - Retail
+OC,"802,850",139.63,-,-,2023-07-26,Before Market Open,4.8,Industrials,Building Products & Equipment
+ODFL,"818,740",406.98,-,-,2023-07-26,Before Market Open,-,Industrials,Trucking
+OGE,"1,203,730",35.60,-,-,2023-08-09,Before Market Open,-,Utilities,Utilities - Regulated Electric
+OHI,"1,706,280",33.30,-,-,2023-08-02,After Close,-,Real Estate,REIT - Healthcare Facilities
+OI,"955,760",18.37,-,-,2023-08-01,After Close,7.1,Consumer Cyclical,Packaging & Containers
+OII,"954,230",25.09,-,-,2023-07-26,After Close,5.1,Energy,Oil & Gas Equipment & Services
+OIS,"617,460",8.70,-,-,2023-07-27,Before Market Open,-,Energy,Oil & Gas Equipment & Services
+OKE,"2,755,190",68.53,-,-,2023-08-07,After Close,2.4,Energy,Oil & Gas Midstream
+OLED,"290,240",160.70,-,-,2023-08-03,After Close,-,Technology,Electronic Components
+OLN,"1,605,920",50.39,-,-,2023-07-27,After Close,4.7,Basic Materials,Specialty Chemicals
+OMC,"1,728,890",78.39,-,-,2023-07-18,After Close,2.8,Communication Services,Advertising Agencies
+OMER,"562,890",3.19,-,-,2023-08-09,Before Market Open,14.1,Healthcare,Biotechnology
+OMF,"715,210",41.10,-,-,2023-07-26,Before Market Open,7.1,Financial,Credit Services
+OPK,"3,743,090",1.65,-,-,2023-08-03,After Close,-,Healthcare,Diagnostics & Research
+ORCL,"10,686,160",113.66,-,-,2023-09-11,After Close,3.8,Technology,Software - Infrastructure
+ORLY,"390,690",940.68,-,-,2023-07-26,After Close,-,Consumer Cyclical,Specialty Retail
+OSK,"537,590",100.25,-,-,2023-08-01,Before Market Open,5.8,Industrials,Farm & Heavy Construction Machinery
+OUT,"2,403,590",10.88,-,-,2023-08-03,After Close,4,Real Estate,REIT - Specialty
+OXY,"9,301,460",67.30,-,-,2023-08-02,After Close,3.1,Energy,Oil & Gas E&P
+PAA,"3,566,280",15.22,-,-,2023-08-04,Before Market Open,-,Energy,Oil & Gas Midstream
+PACB,"3,605,720",11.01,-,-,2023-08-02,After Close,11.9,Healthcare,Medical Devices
+PACW,"7,854,110",8.33,-,-,2023-07-25,After Close,2.2,Financial,Banks - Regional
+PAGP,"2,384,050",16.03,-,-,2023-08-04,Before Market Open,-,Energy,Oil & Gas Midstream
+PANW,"5,570,250",245.82,-,-,2023-08-18,After Close,-,Technology,Software - Infrastructure
+PAY,"86,710",15.86,-,-,2023-08-07,After Close,-,Technology,Software - Infrastructure
+PAYC,"536,110",280.34,-,-,2023-08-01,After Close,-,Technology,Software - Application
+PAYX,"1,808,590",118.94,-,-,2023-09-27,Before Market Open,2.7,Industrials,Staffing & Employment Services
+PBF,"2,242,060",54.82,-,-,2023-08-03,Before Market Open,2.7,Energy,Oil & Gas Refining & Marketing
+PBI,"1,146,350",3.29,-,-,2023-08-03,Before Market Open,-,Industrials,Integrated Freight & Logistics
+PBYI,"174,460",3.32,-,-,2023-08-03,After Close,-,Healthcare,Biotechnology
+PCAR,"2,461,790",85.87,-,-,2023-07-25,Before Market Open,3.4,Industrials,Farm & Heavy Construction Machinery
+PCG,"16,257,400",17.21,-,-,2023-07-27,Before Market Open,-,Utilities,Utilities - Regulated Electric
+PCRX,"547,510",34.77,-,-,2023-08-02,Before Market Open,-,Healthcare,Drug Manufacturers - Specialty & Generic
+PDCO,"964,010",28.50,-,-,2023-08-30,Before Market Open,-,Healthcare,Medical Distribution
+PEB,"2,115,450",14.39,-,-,2023-07-27,After Close,2.4,Real Estate,REIT - Hotel & Motel
+PEG,"2,368,970",61.39,-,-,2023-08-01,Before Market Open,1.9,Utilities,Utilities - Regulated Electric
+PENN,"5,133,540",23.32,-,-,2023-08-09,Before Market Open,4.8,Consumer Cyclical,Resorts & Casinos
+PEP,"4,799,370",181.23,-,-,2023-07-13,Before Market Open,1.8,Consumer Defensive,Beverages - Non-Alcoholic
+PFE,"24,435,470",34.15,-,-,2023-08-01,Before Market Open,2,Healthcare,Drug Manufacturers - General
+PFG,"1,044,500",76.90,-,-,2023-07-27,After Close,4.1,Financial,Asset Management
+PG,"5,740,770",154.77,-,-,2023-07-28,Before Market Open,2.3,Consumer Defensive,Household & Personal Products
+PGR,"2,699,140",139.57,-,-,2023-07-13,Before Market Open,2.7,Financial,Insurance - Property & Casualty
+PH,"695,860",395.18,-,-,2023-08-03,Before Market Open,-,Industrials,Specialty Industrial Machinery
+PHG,"990,170",21.42,-,-,2023-07-24,Before Market Open,-,Healthcare,Medical Devices
+PHM,"2,546,150",78.58,-,-,2023-07-25,Before Market Open,3.6,Consumer Cyclical,Residential Construction
+PII,"595,150",106.62,-,-,2023-07-25,Before Market Open,5.3,Consumer Cyclical,Recreational Vehicles
+PKG,"610,180",150.75,-,-,2023-07-24,After Close,-,Consumer Cyclical,Packaging & Containers
+PLD,"2,631,460",124.33,-,-,2023-07-18,Before Market Open,-,Real Estate,REIT - Industrial
+PM,"3,826,220",96.31,-,-,2023-07-20,Before Market Open,-,Consumer Defensive,Tobacco
+PMT,"631,750",12.98,-,-,2023-07-27,After Close,-,Real Estate,REIT - Mortgage
+PNC,"2,201,980",126.97,-,-,2023-07-18,Before Market Open,2.2,Financial,Banks - Regional
+PNR,"1,161,920",67.31,-,-,2023-07-27,Before Market Open,3.4,Industrials,Specialty Industrial Machinery
+PNW,"821,860",78.70,-,-,2023-08-03,Before Market Open,1.8,Utilities,Utilities - Regulated Electric
+POR,"936,120",44.66,-,-,2023-07-28,Before Market Open,-,Utilities,Utilities - Regulated Electric
+POST,"544,500",88.31,-,-,2023-08-03,After Close,-,Consumer Defensive,Packaged Foods
+PPC,"840,040",25.29,-,-,2023-07-26,After Close,-,Consumer Defensive,Packaged Foods
+PPG,"1,539,700",134.39,-,-,2023-07-20,After Close,-,Basic Materials,Specialty Chemicals
+PPL,"4,758,230",25.68,-,-,2023-08-04,Before Market Open,1.4,Utilities,Utilities - Regulated Electric
+PRAA,"310,270",21.32,-,-,2023-08-07,After Close,-,Financial,Credit Services
+PRGO,"1,333,420",33.63,-,-,2023-08-08,Before Market Open,5.3,Healthcare,Drug Manufacturers - Specialty & Generic
+PRU,"1,630,780",99.14,-,-,2023-08-01,After Close,3.8,Financial,Insurance - Life
+PSA,"816,830",276.09,-,-,2023-08-02,After Close,2.4,Real Estate,REIT - Industrial
+PSTG,"3,456,320",36.90,-,-,2023-08-30,After Close,9.6,Technology,Computer Hardware
+PSX,"3,086,740",122.97,-,-,2023-08-02,Before Market Open,2.3,Energy,Oil & Gas Refining & Marketing
+PTC,"777,860",140.80,-,-,2023-07-26,After Close,5.1,Technology,Software - Application
+PTCT,"669,530",37.39,-,-,2023-08-03,After Close,-,Healthcare,Biotechnology
+PTEN,"4,941,390",15.81,-,-,2023-07-27,Before Market Open,-,Energy,Oil & Gas Drilling
+PVH,"831,280",79.79,-,-,2023-08-29,After Close,5,Consumer Cyclical,Apparel Manufacturing
+PWR,"725,810",202.79,-,-,2023-08-03,Before Market Open,-,Industrials,Engineering & Construction
+PX,"309,130",11.34,-,-,2023-08-10,After Close,-,Financial,Asset Management
+PXD,"1,722,950",237.35,-,-,2023-08-01,After Close,3.9,Energy,Oil & Gas E&P
+PYPL,"16,385,980",64.44,-,-,2023-08-02,After Close,5.3,Financial,Credit Services
+QCOM,"8,516,620",114.04,-,-,2023-08-02,After Close,5.1,Technology,Semiconductors
+QGEN,"1,266,580",41.68,-,-,2023-08-08,After Close,-,Healthcare,Diagnostics & Research
+QRVO,"1,222,620",96.10,-,-,2023-08-02,After Close,6.6,Technology,Semiconductors
+QSR,"1,129,870",69.03,-,-,2023-08-08,Before Market Open,-,Consumer Cyclical,Restaurants
+R,"347,420",101.60,-,-,2023-07-26,Before Market Open,-,Industrials,Rental & Leasing Services
+RACE,"307,080",302.67,-,-,2023-08-02,Before Market Open,-,Consumer Cyclical,Auto Manufacturers
+RCL,"3,115,330",99.77,-,-,2023-07-27,Before Market Open,5.8,Consumer Cyclical,Travel Services
+RDN,"1,045,810",25.72,-,-,2023-08-02,After Close,3.3,Financial,Insurance - Specialty
+RDUS,"198,310",29.41,-,-,2023-06-27,Before Market Open,-,Basic Materials,Steel
+REGN,"604,080",832.38,-,-,2023-08-03,Before Market Open,4.3,Healthcare,Biotechnology
+RES,"1,484,330",8.91,-,-,2023-07-26,Before Market Open,-,Energy,Oil & Gas Equipment & Services
+RGC,"2,680",12.18,-,-,-,-,-,Healthcare,Drug Manufacturers - Specialty & Generic
+RGLD,"403,580",110.62,-,-,2023-08-02,After Close,-,Basic Materials,Gold
+RH,"834,940",307.25,-,-,2023-09-07,After Close,-,Consumer Cyclical,Specialty Retail
+RHI,"976,830",74.65,-,-,2023-07-25,After Close,5.7,Industrials,Staffing & Employment Services
+RIG,"15,064,210",8.66,-,-,2023-07-31,After Close,-,Energy,Oil & Gas Drilling
+RIO,"2,828,410",66.03,-,-,2023-07-26,Before Market Open,-,Basic Materials,Other Industrial Metals & Mining
+RJF,"841,930",108.66,-,-,2023-07-26,After Close,3.7,Financial,Capital Markets
+RL,"882,130",115.04,-,-,2023-08-10,Before Market Open,5.8,Consumer Cyclical,Apparel Manufacturing
+RLJ,"2,028,580",9.83,-,-,2023-08-03,After Close,2.5,Real Estate,REIT - Hotel & Motel
+RMD,"1,197,720",147.64,-,-,2023-08-03,After Close,-,Healthcare,Medical Instruments & Supplies
+ROK,"768,570",287.08,-,-,2023-08-01,Before Market Open,-,Industrials,Specialty Industrial Machinery
+ROKU,"8,543,080",77.80,-,-,2023-07-27,After Close,17.5,Communication Services,Entertainment
+ROST,"2,313,660",117.80,-,-,2023-08-17,After Close,3.3,Consumer Cyclical,Apparel Retail
+RPM,"615,250",96.54,-,-,2023-10-04,Before Market Open,-,Basic Materials,Specialty Chemicals
+RRC,"2,748,720",33.26,-,-,2023-07-24,After Close,-,Energy,Oil & Gas E&P
+RSG,"1,057,970",150.44,-,-,2023-07-31,After Close,2.4,Industrials,Waste Management
+RUN,"9,098,970",15.50,-,-,2023-08-02,After Close,6.5,Technology,Solar
+RY,"890,760",91.31,-,-,2023-08-24,Before Market Open,1.4,Financial,Banks - Diversified
+SABR,"6,646,150",4.76,-,-,2023-08-03,Before Market Open,5.8,Consumer Cyclical,Travel Services
+SANM,"327,360",53.20,-,-,2023-07-31,After Close,-,Technology,Electronic Components
+SAP,"873,500",135.99,-,-,2023-07-20,Before Market Open,3,Technology,Software - Application
+SAVE,"1,507,340",16.59,-,-,2023-08-03,Before Market Open,5.7,Industrials,Airlines
+SBAC,"935,890",218.82,-,-,2023-07-31,After Close,2.7,Real Estate,REIT - Specialty
+SBGI,"693,650",13.62,-,-,2023-08-02,After Close,4.2,Communication Services,Entertainment
+SBH,"1,648,490",9.50,-,-,2023-08-03,Before Market Open,9,Consumer Cyclical,Specialty Retail
+SBUX,"6,202,270",97.16,-,-,2023-08-01,After Close,-,Consumer Cyclical,Restaurants
+SCCO,"1,043,890",80.21,-,-,2023-07-27,After Close,2.8,Basic Materials,Copper
+SCHW,"10,406,010",59.76,-,-,2023-07-18,Before Market Open,2.7,Financial,Capital Markets
+SCI,"954,890",61.60,-,-,2023-08-01,After Close,-,Consumer Cyclical,Personal Services
+SE,"6,569,980",39.89,-,-,2023-08-15,Before Market Open,8.4,Consumer Cyclical,Internet Retail
+SEAS,"823,020",49.86,-,-,2023-08-08,Before Market Open,6.4,Consumer Cyclical,Leisure
+SEDG,"1,574,740",144.76,-,-,2023-08-01,After Close,13.2,Technology,Solar
+SEE,"1,908,980",35.41,-,-,2023-08-08,Before Market Open,5,Consumer Cyclical,Packaging & Containers
+SEIC,"529,680",61.05,-,-,2023-07-26,After Close,-,Financial,Asset Management
+SEM,"539,080",26.35,-,-,2023-08-03,After Close,-,Healthcare,Medical Care Facilities
+SFL,"905,850",10.93,-,-,2023-08-17,Before Market Open,-,Industrials,Marine Shipping
+SFM,"1,464,370",40.59,-,-,2023-08-01,After Close,5.3,Consumer Defensive,Grocery Stores
+SGEN,"1,145,790",206.50,-,-,2023-08-02,Before Market Open,4.9,Healthcare,Biotechnology
+SGMO,"1,835,920",1.00,-,-,2023-08-08,After Close,12.2,Healthcare,Biotechnology
+SHW,"1,394,460",268.07,-,-,2023-07-25,Before Market Open,4.2,Basic Materials,Specialty Chemicals
+SIG,"783,860",77.75,-,-,2023-08-31,Before Market Open,-,Consumer Cyclical,Luxury Goods
+SJM,"987,050",127.42,-,-,2023-08-29,Before Market Open,4.5,Consumer Defensive,Packaged Foods
+SKT,"780,890",23.72,-,-,2023-08-03,After Close,3.2,Real Estate,REIT - Retail
+SKX,"1,872,390",47.44,-,-,2023-07-27,After Close,10.9,Consumer Cyclical,Footwear & Accessories
+SLB,"9,346,880",61.60,-,-,2023-07-21,Before Market Open,-,Energy,Oil & Gas Equipment & Services
+SLCA,"734,860",14.36,-,-,2023-07-27,After Close,9.2,Energy,Oil & Gas Equipment & Services
+SLG,"2,228,110",40.42,-,-,2023-07-19,After Close,1.8,Real Estate,REIT - Office
+SM,"1,647,330",40.35,-,-,2023-08-02,After Close,6,Energy,Oil & Gas E&P
+SNPS,"869,770",466.15,-,-,2023-08-16,After Close,4.2,Technology,Software - Infrastructure
+SNV,"1,307,850",30.28,-,-,2023-07-20,Before Market Open,3.3,Financial,Banks - Regional
+SNY,"1,235,250",54.55,-,-,2023-07-28,Before Market Open,2.4,Healthcare,Drug Manufacturers - General
+SO,"3,733,530",70.90,-,-,2023-08-03,Before Market Open,1.4,Utilities,Utilities - Regulated Electric
+SPG,"1,447,060",117.38,-,-,2023-08-02,After Close,1.9,Real Estate,REIT - Retail
+SPLK,"1,623,530",122.15,-,-,2023-08-23,After Close,8.3,Technology,Software - Infrastructure
+SPR,"3,389,130",16.38,-,-,2023-08-02,Before Market Open,5.2,Industrials,Aerospace & Defense
+SPWR,"6,186,890",7.28,-,-,2023-08-01,Before Market Open,8.7,Technology,Solar
+SPXC,"222,470",79.82,-,-,2023-08-02,After Close,-,Industrials,Specialty Industrial Machinery
+SQ,"9,391,700",53.85,-,-,2023-08-03,After Close,7.8,Technology,Software - Infrastructure
+SRCL,"431,340",45.28,-,-,2023-07-27,Before Market Open,-,Industrials,Waste Management
+SRE,"2,171,040",73.53,-,-,2023-08-03,Before Market Open,1.7,Utilities,Utilities - Diversified
+SRPT,"1,073,760",119.72,-,-,2023-08-02,After Close,7.6,Healthcare,Biotechnology
+SSNC,"1,040,890",55.50,-,-,2023-07-27,After Close,-,Technology,Software - Application
+SSYS,"1,068,300",12.59,-,-,2023-08-09,Before Market Open,7.2,Technology,Computer Hardware
+ST,"1,281,770",37.35,-,-,2023-07-25,Before Market Open,3.3,Technology,Scientific & Technical Instruments
+STE,"383,180",229.90,-,-,2023-08-01,After Close,-,Healthcare,Medical Devices
+STLD,"1,321,670",102.53,-,-,2023-07-19,After Close,-,Basic Materials,Steel
+STR,"563,120",26.43,-,-,2023-08-08,After Close,-,Energy,Oil & Gas E&P
+STT,"2,586,600",72.39,-,-,2023-07-14,Before Market Open,4.8,Financial,Asset Management
+STWD,"2,615,690",20.99,-,-,2023-08-03,Before Market Open,2,Real Estate,REIT - Mortgage
+STX,"2,596,790",64.25,-,-,2023-07-26,After Close,6,Technology,Computer Hardware
+SU,"4,487,690",34.73,-,-,2023-08-14,After Close,2.3,Energy,Oil & Gas Integrated
+SUPN,"471,580",29.28,-,-,2023-08-08,After Close,-,Healthcare,Drug Manufacturers - Specialty & Generic
+SWK,"1,430,190",87.61,-,-,2023-08-01,Before Market Open,4.3,Industrials,Tools & Accessories
+SWKS,"1,644,540",99.24,-,-,2023-08-07,After Close,7.3,Technology,Semiconductors
+SWN,"19,769,640",6.66,-,-,2023-08-03,After Close,-,Energy,Oil & Gas E&P
+SYF,"4,007,270",32.29,-,-,2023-07-18,Before Market Open,3.9,Financial,Credit Services
+SYK,"1,263,990",295.00,-,-,2023-08-03,After Close,3,Healthcare,Medical Devices
+SYT,"2,660",6.32,-,-,-,-,-,Technology,Software - Application
+SYY,"2,421,770",71.07,-,-,2023-08-01,Before Market Open,3.7,Consumer Defensive,Food Distribution
+T,"44,212,550",15.06,-,-,2023-07-26,Before Market Open,3.1,Communication Services,Telecom Services
+TAP,"1,847,640",63.79,-,-,2023-08-01,Before Market Open,4.5,Consumer Defensive,Beverages - Brewers
+TD,"2,257,600",62.12,-,-,2023-08-24,Before Market Open,-,Financial,Banks - Diversified
+TDC,"1,087,480",44.87,-,-,2023-08-07,After Close,6.7,Technology,Software - Infrastructure
+TDW,"898,970",68.69,-,-,2023-08-07,After Close,-,Energy,Oil & Gas Equipment & Services
+TEAM,"1,510,630",209.40,-,-,2023-08-03,After Close,7.2,Technology,Software - Application
+TEL,"1,459,780",129.19,-,-,2023-07-26,Before Market Open,3.2,Technology,Electronic Components
+TER,"1,641,010",97.96,-,-,2023-07-26,After Close,6.6,Technology,Semiconductor Equipment & Materials
+TEVA,"10,012,320",10.56,-,-,2023-08-02,Before Market Open,-,Healthcare,Drug Manufacturers - Specialty & Generic
+TEX,"790,350",59.19,-,-,2023-08-01,After Close,-,Industrials,Farm & Heavy Construction Machinery
+TGI,"1,245,820",8.73,-,-,2023-08-02,Before Market Open,9.9,Industrials,Aerospace & Defense
+TGNA,"2,137,810",16.27,-,-,2023-08-03,Before Market Open,3.5,Communication Services,Broadcasting
+TGT,"5,005,560",124.77,-,-,2023-08-16,Before Market Open,4.2,Consumer Defensive,Discount Stores
+THC,"1,207,110",71.33,-,-,2023-07-31,After Close,-,Healthcare,Medical Care Facilities
+THS,"364,320",47.82,-,-,2023-08-07,Before Market Open,-,Consumer Defensive,Packaged Foods
+TJX,"4,762,710",93.59,-,-,2023-08-16,Before Market Open,2.9,Consumer Cyclical,Apparel Retail
+TK,"597,550",5.86,-,-,2023-08-03,Before Market Open,-,Energy,Oil & Gas Midstream
+TKR,"598,140",72.59,-,-,2023-08-03,Before Market Open,-,Industrials,Tools & Accessories
+TMO,"1,490,670",515.64,-,-,2023-07-26,Before Market Open,3.2,Healthcare,Diagnostics & Research
+TMST,"261,420",22.01,-,-,2023-08-03,After Close,10.4,Basic Materials,Steel
+TMUS,"4,820,420",143.12,-,-,2023-07-27,After Close,3.9,Communication Services,Telecom Services
+TOL,"1,710,000",80.72,-,-,2023-08-22,After Close,5.2,Consumer Cyclical,Residential Construction
+TPH,"969,290",29.78,-,-,2023-07-27,Before Market Open,3.7,Consumer Cyclical,Residential Construction
+TPX,"1,723,750",45.97,-,-,2023-08-03,Before Market Open,-,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+TRGP,"1,496,960",85.74,-,-,2023-08-03,Before Market Open,3.9,Energy,Oil & Gas Midstream
+TRI,"366,070",130.22,-,-,2023-08-02,Before Market Open,-,Industrials,Specialty Business Services
+TRIP,"2,372,820",15.77,-,-,2023-08-02,After Close,8.6,Consumer Cyclical,Travel Services
+TRMB,"1,165,460",51.69,-,-,2023-08-03,Before Market Open,6.4,Technology,Scientific & Technical Instruments
+TRN,"332,980",24.35,-,-,2023-08-01,Before Market Open,5.7,Industrials,Railroads
+TROW,"1,365,440",110.05,-,-,2023-07-28,Before Market Open,3.2,Financial,Asset Management
+TRP,"2,920,480",37.46,-,-,2023-07-28,Before Market Open,1.2,Energy,Oil & Gas Midstream
+TRUE,"223,310",2.44,-,-,2023-08-01,After Close,-,Communication Services,Internet Content & Information
+TRV,"1,229,490",165.96,-,-,2023-07-20,Before Market Open,-,Financial,Insurance - Property & Casualty
+TS,"1,894,130",32.89,-,-,2023-08-02,After Close,4.6,Energy,Oil & Gas Equipment & Services
+TSCO,"1,251,040",215.93,-,-,2023-07-27,Before Market Open,4.9,Consumer Cyclical,Specialty Retail
+TSLA,"124,426,810",276.04,-,-,2023-07-19,After Close,7.4,Consumer Cyclical,Auto Manufacturers
+TSM,"8,873,740",91.47,-,-,2023-07-20,Before Market Open,2.9,Technology,Semiconductors
+TSN,"2,997,990",53.96,-,-,2023-08-07,Before Market Open,4.8,Consumer Defensive,Farm Products
+TTWO,"1,332,760",144.40,-,-,2023-08-08,After Close,6.6,Communication Services,Electronic Gaming & Multimedia
+TV,"1,461,240",3.48,-,-,2023-07-25,After Close,-,Communication Services,Telecom Services
+TXMD,"21,270",3.62,-,-,2023-08-14,Before Market Open,-,Healthcare,Drug Manufacturers - Specialty & Generic
+TXN,"5,006,220",166.05,-,-,2023-07-25,After Close,3.7,Technology,Semiconductors
+TXT,"1,156,850",76.18,-,-,2023-07-27,Before Market Open,5.7,Industrials,Aerospace & Defense
+UA,"3,111,740",6.78,-,-,2023-08-08,Before Market Open,9.1,Consumer Cyclical,Apparel Manufacturing
+UAL,"6,080,700",45.42,-,-,2023-07-19,After Close,6.3,Industrials,Airlines
+UBS,"2,909,510",26.19,-,-,2023-08-31,Before Market Open,-,Financial,Banks - Diversified
+UDR,"2,091,570",38.44,-,-,2023-07-26,After Close,1.6,Real Estate,REIT - Residential
+UGI,"2,746,100",24.09,-,-,2023-08-02,After Close,-,Utilities,Utilities - Regulated Gas
+UL,"1,850,880",50.66,-,-,2023-07-25,After Close,-,Consumer Defensive,Household & Personal Products
+ULTA,"801,040",415.83,-,-,2023-08-24,After Close,-,Consumer Cyclical,Specialty Retail
+UNFI,"642,540",18.48,-,-,2023-06-07,Before Market Open,9.9,Consumer Defensive,Food Distribution
+UNH,"3,401,670",483.60,-,-,2023-07-14,Before Market Open,3.1,Healthcare,Healthcare Plans
+UNM,"1,035,710",48.97,-,-,2023-08-01,After Close,4.2,Financial,Insurance - Life
+UNP,"2,711,820",215.70,-,-,2023-07-26,Before Market Open,3.1,Industrials,Railroads
+UPS,"3,625,820",160.73,-,-,2023-08-08,Before Market Open,3,Industrials,Integrated Freight & Logistics
+URBN,"1,511,470",33.48,-,-,2023-08-22,After Close,-,Consumer Cyclical,Apparel Retail
+URI,"723,340",453.32,-,-,2023-07-26,After Close,-,Industrials,Rental & Leasing Services
+USB,"12,596,990",35.72,-,-,2023-07-19,Before Market Open,2.1,Financial,Banks - Regional
+UVE,"262,170",13.25,-,-,2023-07-27,After Close,-,Financial,Insurance - Property & Casualty
+V,"5,486,600",241.50,-,-,2023-07-25,After Close,3.1,Financial,Credit Services
+VC,"261,720",136.91,-,-,2023-08-03,Before Market Open,-,Consumer Cyclical,Auto Parts
+VEEV,"918,140",211.16,-,-,2023-08-30,After Close,7.4,Healthcare,Health Information Services
+VFC,"6,068,410",18.11,-,-,2023-08-01,After Close,4.2,Consumer Cyclical,Apparel Manufacturing
+VHC,"248,670",0.28,-,-,-,-,-,Technology,Software - Infrastructure
+VIPS,"3,241,650",14.91,-,-,2023-08-18,Before Market Open,-,Consumer Cyclical,Internet Retail
+VLO,"3,650,670",145.95,-,-,2023-07-27,Before Market Open,3.3,Energy,Oil & Gas Refining & Marketing
+VMC,"781,920",214.97,-,-,2023-08-03,Before Market Open,3.5,Basic Materials,Building Materials
+VMW,"1,668,950",168.20,-,-,2023-08-31,After Close,-,Technology,Software - Infrastructure
+VNET,"1,373,100",3.03,-,-,2023-08-23,After Close,7.1,Technology,Information Technology Services
+VNO,"3,296,490",25.24,-,-,2023-07-31,After Close,2,Real Estate,REIT - Office
+VOD,"5,029,320",9.97,-,-,-,-,-,Communication Services,Telecom Services
+VOYA,"673,980",69.51,-,-,2023-08-01,After Close,-,Financial,Financial Conglomerates
+VRSK,"1,047,500",248.49,-,-,2023-08-02,Before Market Open,3.4,Industrials,Consulting Services
+VRSN,"444,470",200.41,-,-,2023-07-27,After Close,-,Technology,Software - Infrastructure
+VRTX,"1,059,900",349.42,-,-,2023-08-01,After Close,3.5,Healthcare,Biotechnology
+VTR,"2,223,820",44.37,-,-,2023-08-03,After Close,2.4,Real Estate,REIT - Healthcare Facilities
+VZ,"24,623,390",34.04,-,-,2023-07-25,Before Market Open,2,Communication Services,Telecom Services
+W,"4,279,490",71.19,-,-,2023-08-03,Before Market Open,-,Consumer Cyclical,Internet Retail
+WAB,"869,630",107.99,-,-,2023-07-27,Before Market Open,4.7,Industrials,Railroads
+WAFD,"405,250",26.82,-,-,2023-07-14,After Close,-,Financial,Banks - Regional
+WAL,"2,223,300",49.13,-,-,2023-07-18,After Close,2.7,Financial,Banks - Regional
+WBA,"11,222,450",22.48,-,-,2023-06-27,Before Market Open,4.6,Healthcare,Pharmaceutical Retailers
+WBS,"987,120",41.95,-,-,2023-07-20,Before Market Open,-,Financial,Banks - Regional
+WCC,"708,230",155.23,-,-,2023-08-03,Before Market Open,-,Industrials,Industrial Distribution
+WCN,"850,540",142.15,-,-,2023-08-02,After Close,2.2,Industrials,Waste Management
+WDAY,"1,744,880",245.08,-,-,2023-08-24,After Close,6,Technology,Software - Application
+WDC,"3,326,390",43.69,-,-,2023-07-31,After Close,5.5,Technology,Computer Hardware
+WEC,"1,269,950",86.81,-,-,2023-08-01,Before Market Open,-,Utilities,Utilities - Regulated Electric
+WERN,"599,650",40.35,-,-,2023-08-03,After Close,-,Industrials,Trucking
+WFC,"15,254,510",43.05,-,-,2023-07-14,Before Market Open,3.2,Financial,Banks - Diversified
+WHR,"677,050",136.56,-,-,2023-07-24,After Close,-,Consumer Cyclical,"Furnishings, Fixtures & Appliances"
+WLK,"478,520",127.73,-,-,2023-08-03,Before Market Open,-,Basic Materials,Specialty Chemicals
+WM,"1,371,450",160.35,-,-,2023-07-25,After Close,2.7,Industrials,Waste Management
+WMB,"6,621,960",34.72,-,-,2023-08-02,After Close,3,Energy,Oil & Gas Midstream
+WMT,"5,296,590",165.25,-,-,2023-08-17,Before Market Open,2.8,Consumer Defensive,Discount Stores
+WNC,"520,010",21.81,-,-,2023-07-26,Before Market Open,-,Industrials,Farm & Heavy Construction Machinery
+WOOF,"3,740,770",4.63,-,-,2023-08-24,Before Market Open,4.5,Consumer Cyclical,Specialty Retail
+WRK,"2,905,480",36.82,-,-,2023-08-03,Before Market Open,5,Consumer Cyclical,Packaging & Containers
+WSM,"1,047,010",145.13,-,-,2023-08-23,Before Market Open,6.5,Consumer Cyclical,Specialty Retail
+WTW,"678,410",205.23,-,-,2023-07-27,Before Market Open,-,Financial,Insurance Brokers
+WU,"4,512,940",12.72,-,-,2023-07-26,After Close,3,Financial,Credit Services
+WWW,"1,096,520",8.33,-,-,2023-08-10,Before Market Open,-,Consumer Cyclical,Footwear & Accessories
+WY,"3,612,140",32.70,-,-,2023-07-27,After Close,2.6,Real Estate,REIT - Specialty
+WYNN,"1,909,810",97.71,-,-,2023-08-09,After Close,5.6,Consumer Cyclical,Resorts & Casinos
+X,"9,812,050",30.84,-,-,2023-07-27,After Close,7,Basic Materials,Steel
+XEL,"3,990,870",58.68,-,-,2023-07-27,Before Market Open,1.4,Utilities,Utilities - Regulated Electric
+XOM,"15,708,330",118.52,-,-,2023-07-28,Before Market Open,2,Energy,Oil & Gas Integrated
+XPO,"1,854,850",72.18,-,-,2023-08-04,Before Market Open,5.5,Industrials,Trucking
+XRAY,"1,472,210",35.59,-,-,2023-08-02,After Close,4.3,Healthcare,Medical Instruments & Supplies
+XYL,"1,399,100",96.32,-,-,2023-08-02,Before Market Open,-,Industrials,Specialty Industrial Machinery
+YELP,"696,290",43.57,-,-,2023-08-03,After Close,13.8,Communication Services,Internet Content & Information
+YPF,"2,015,970",12.93,-,-,2023-08-11,After Close,-,Energy,Oil & Gas Integrated
+YUM,"1,527,640",131.69,-,-,2023-08-02,Before Market Open,3.5,Consumer Cyclical,Restaurants
+Z,"2,689,710",48.81,-,-,2023-08-02,After Close,10.5,Communication Services,Internet Content & Information
+ZBH,"1,486,650",121.62,-,-,2023-08-01,Before Market Open,4.3,Healthcare,Medical Devices
+ZBRA,"437,400",254.79,-,-,2023-08-01,Before Market Open,-,Technology,Communication Equipment
+ZION,"3,438,840",37.08,-,-,2023-07-19,After Close,3.6,Financial,Banks - Regional
+ZTS,"1,848,710",182.74,-,-,2023-08-08,Before Market Open,-,Healthcare,Drug Manufacturers - Specialty & Generic
